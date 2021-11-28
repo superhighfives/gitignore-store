@@ -1,4 +1,4 @@
-# GitIgnore Fetch
+# GitIgnore Store
 
 A worker for grabbing and storing github/gitignore files in [Cloudflare Workers KV](https://developers.cloudflare.com/workers/runtime-apis/kv).
 
