@@ -1,4 +1,4 @@
-name = "gitignore-fetch"
+name = "gitignore-store"
 type = "javascript"
 
 account_id = ""
